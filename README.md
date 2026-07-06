@@ -1,6 +1,8 @@
 # Photos
 
-My photography portfolio: a static gallery in **pure HTML/CSS/JS**, with a small Python script that generates the thumbnails.
+My photography portfolio, live at **[photo.codealuxz.fr](https://photo.codealuxz.fr)**.
+
+A static gallery in **pure HTML/CSS/JS**, with a small Python script that generates the thumbnails.
 
 ## How it works
 
